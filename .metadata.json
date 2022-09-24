@@ -2,5 +2,9 @@
   {
     "package": "logitr",
     "oncran": true
+  },
+  {
+    "package": "renderthis",
+    "oncran": true
   }
 ]
