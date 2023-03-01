@@ -1,5 +1,9 @@
 [
   {
+    "package": "cbcTools",
+    "oncran": true
+  },
+  {
     "package": "logitr",
     "oncran": true
   },
