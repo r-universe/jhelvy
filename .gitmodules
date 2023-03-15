@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "renderthis"]
+	path = renderthis
+	url = https://github.com/jhelvy/renderthis
+	shallow = true
+	registered = true
 [submodule "cbcTools"]
 	path = cbcTools
 	url = https://github.com/jhelvy/cbctools
@@ -11,10 +16,5 @@
 [submodule "logitr"]
 	path = logitr
 	url = https://github.com/jhelvy/logitr
-	shallow = true
-	registered = true
-[submodule "renderthis"]
-	path = renderthis
-	url = https://github.com/jhelvy/renderthis
 	shallow = true
 	registered = true
