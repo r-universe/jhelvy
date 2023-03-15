@@ -1,14 +1,14 @@
 [
   {
-    "package": "renderthis",
-    "oncran": true
-  },
-  {
     "package": "cbcTools",
     "oncran": true
   },
   {
     "package": "logitr",
+    "oncran": true
+  },
+  {
+    "package": "renderthis",
     "oncran": true
   }
 ]
