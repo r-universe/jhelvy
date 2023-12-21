@@ -8,6 +8,3 @@
 [submodule "logitr"]
 	path = logitr
 	url = https://github.com/jhelvy/logitr
-[submodule "renderthis"]
-	path = renderthis
-	url = https://github.com/jhelvy/renderthis
